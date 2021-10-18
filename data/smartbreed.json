@@ -1,0 +1,683 @@
+[
+  {
+    "name": "Project Plan",
+    "layer": 0,
+    "tag": "0",
+    "index": [
+      -1
+    ]
+  },
+  {
+    "name": "Initiating",
+    "layer": 1,
+    "tag": "1",
+    "index": [
+      0
+    ]
+  },
+  {
+    "name": "Project charter",
+    "layer": 2,
+    "tag": "1.1",
+    "index": [
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Kick-off meeting",
+    "layer": 2,
+    "tag": "1.2",
+    "index": [
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Sponsor feedback",
+    "layer": 2,
+    "tag": "1.3",
+    "index": [
+      0,
+      2
+    ]
+  },
+  {
+    "name": "Planning",
+    "layer": 1,
+    "tag": "2",
+    "index": [
+      1
+    ]
+  },
+  {
+    "name": "Draft scope statement",
+    "layer": 2,
+    "tag": "2.1",
+    "index": [
+      1,
+      0
+    ]
+  },
+  {
+    "name": "Draft WBS",
+    "layer": 2,
+    "tag": "2.2",
+    "index": [
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Draft project schedule",
+    "layer": 2,
+    "tag": "2.3",
+    "index": [
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Draft Gantt chart",
+    "layer": 2,
+    "tag": "2.4",
+    "index": [
+      1,
+      3
+    ]
+  },
+  {
+    "name": "Draft cost estimation",
+    "layer": 2,
+    "tag": "2.5",
+    "index": [
+      1,
+      4
+    ]
+  },
+  {
+    "name": "Draft cost baseline",
+    "layer": 2,
+    "tag": "2.6",
+    "index": [
+      1,
+      5
+    ]
+  },
+  {
+    "name": "Update scope statement",
+    "layer": 2,
+    "tag": "2.7",
+    "index": [
+      1,
+      6
+    ]
+  },
+  {
+    "name": "Update project schedule",
+    "layer": 2,
+    "tag": "2.8",
+    "index": [
+      1,
+      7
+    ]
+  },
+  {
+    "name": "Update Gantt chart",
+    "layer": 2,
+    "tag": "2.9",
+    "index": [
+      1,
+      8
+    ]
+  },
+  {
+    "name": "Update cost estimation",
+    "layer": 2,
+    "tag": "2.10",
+    "index": [
+      1,
+      9
+    ]
+  },
+  {
+    "name": "Update cost baseline",
+    "layer": 2,
+    "tag": "2.11",
+    "index": [
+      1,
+      10
+    ]
+  },
+  {
+    "name": "Requirements",
+    "layer": 1,
+    "tag": "3",
+    "index": [
+      2
+    ]
+  },
+  {
+    "name": "Elicit requirements",
+    "layer": 2,
+    "tag": "3.1",
+    "index": [
+      2,
+      0
+    ]
+  },
+  {
+    "name": "System archaeology",
+    "layer": 3,
+    "tag": "3.1.1",
+    "index": [
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Interview",
+    "layer": 3,
+    "tag": "3.1.2",
+    "index": [
+      2,
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Brainstorming",
+    "layer": 3,
+    "tag": "3.1.3",
+    "index": [
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "name": "Document requirements",
+    "layer": 2,
+    "tag": "3.2",
+    "index": [
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Validate requirements",
+    "layer": 2,
+    "tag": "3.3",
+    "index": [
+      2,
+      2
+    ]
+  },
+  {
+    "name": "Executing",
+    "layer": 1,
+    "tag": "4",
+    "index": [
+      3
+    ]
+  },
+  {
+    "name": "Application Design",
+    "layer": 2,
+    "tag": "4.1",
+    "index": [
+      3,
+      0
+    ]
+  },
+  {
+    "name": "Design application structure",
+    "layer": 3,
+    "tag": "4.1.1",
+    "index": [
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Design general structure",
+    "layer": 4,
+    "tag": "4.1.1.1",
+    "index": [
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Define API",
+    "layer": 4,
+    "tag": "4.1.1.2",
+    "index": [
+      3,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Design frontend",
+    "layer": 4,
+    "tag": "4.1.1.3",
+    "index": [
+      3,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "name": "Design backend",
+    "layer": 4,
+    "tag": "4.1.1.4",
+    "index": [
+      3,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "name": "Design GUI",
+    "layer": 3,
+    "tag": "4.1.2",
+    "index": [
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Implementation",
+    "layer": 2,
+    "tag": "4.2",
+    "index": [
+      3,
+      1
+    ]
+  },
+  {
+    "name": "Frontend (Dashboard)",
+    "layer": 3,
+    "tag": "4.2.1",
+    "index": [
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "name": "Setup foundation",
+    "layer": 4,
+    "tag": "4.2.1.1",
+    "index": [
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Implement GUI",
+    "layer": 4,
+    "tag": "4.2.1.2",
+    "index": [
+      3,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Implement API requests",
+    "layer": 4,
+    "tag": "4.2.1.3",
+    "index": [
+      3,
+      1,
+      0,
+      2
+    ]
+  },
+  {
+    "name": "Backend",
+    "layer": 3,
+    "tag": "4.2.2",
+    "index": [
+      3,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Setup foundation",
+    "layer": 4,
+    "tag": "4.2.2.1",
+    "index": [
+      3,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "name": "Implement database integration",
+    "layer": 4,
+    "tag": "4.2.2.2",
+    "index": [
+      3,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Implement data analysis",
+    "layer": 4,
+    "tag": "4.2.2.3",
+    "index": [
+      3,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Implement API",
+    "layer": 4,
+    "tag": "4.2.2.4",
+    "index": [
+      3,
+      1,
+      1,
+      3
+    ]
+  },
+  {
+    "name": "Testing",
+    "layer": 2,
+    "tag": "4.3",
+    "index": [
+      3,
+      2
+    ]
+  },
+  {
+    "name": "Test frontend",
+    "layer": 3,
+    "tag": "4.3.1",
+    "index": [
+      3,
+      2,
+      0
+    ]
+  },
+  {
+    "name": "Test backend / API",
+    "layer": 3,
+    "tag": "4.3.2",
+    "index": [
+      3,
+      2,
+      1
+    ]
+  },
+  {
+    "name": "Implement minor revision",
+    "layer": 3,
+    "tag": "4.3.3",
+    "index": [
+      3,
+      2,
+      2
+    ]
+  },
+  {
+    "name": "Deployment",
+    "layer": 2,
+    "tag": "4.4",
+    "index": [
+      3,
+      3
+    ]
+  },
+  {
+    "name": "Deploy application",
+    "layer": 3,
+    "tag": "4.4.1",
+    "index": [
+      3,
+      3,
+      0
+    ]
+  },
+  {
+    "name": "Training",
+    "layer": 2,
+    "tag": "4.5",
+    "index": [
+      3,
+      4
+    ]
+  },
+  {
+    "name": "Create basic user manual",
+    "layer": 3,
+    "tag": "4.5.1",
+    "index": [
+      3,
+      4,
+      0
+    ]
+  },
+  {
+    "name": "Train users",
+    "layer": 3,
+    "tag": "4.5.2",
+    "index": [
+      3,
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Monitoring and Controlling",
+    "layer": 1,
+    "tag": "5",
+    "index": [
+      4
+    ]
+  },
+  {
+    "name": "Progress report 1",
+    "layer": 2,
+    "tag": "5.1",
+    "index": [
+      4,
+      0
+    ]
+  },
+  {
+    "name": "Fill out progress report template",
+    "layer": 3,
+    "tag": "5.1.1",
+    "index": [
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Assemble all documents for PR1",
+    "layer": 3,
+    "tag": "5.1.2",
+    "index": [
+      4,
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Present report",
+    "layer": 3,
+    "tag": "5.1.3",
+    "index": [
+      4,
+      0,
+      2
+    ]
+  },
+  {
+    "name": "Receive feedback from sponsor",
+    "layer": 3,
+    "tag": "5.1.4",
+    "index": [
+      4,
+      0,
+      3
+    ]
+  },
+  {
+    "name": "Progress report 2",
+    "layer": 2,
+    "tag": "5.2",
+    "index": [
+      4,
+      1
+    ]
+  },
+  {
+    "name": "Fill out progress report template",
+    "layer": 3,
+    "tag": "5.2.1",
+    "index": [
+      4,
+      1,
+      0
+    ]
+  },
+  {
+    "name": "Prepare est. vs. updated hours summary",
+    "layer": 3,
+    "tag": "5.2.2",
+    "index": [
+      4,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Assemble all documents for PR2",
+    "layer": 3,
+    "tag": "5.2.3",
+    "index": [
+      4,
+      1,
+      2
+    ]
+  },
+  {
+    "name": "Present report",
+    "layer": 3,
+    "tag": "5.2.4",
+    "index": [
+      4,
+      1,
+      3
+    ]
+  },
+  {
+    "name": "Receive feedback from sponsor",
+    "layer": 3,
+    "tag": "5.2.5",
+    "index": [
+      4,
+      1,
+      4
+    ]
+  },
+  {
+    "name": "Weekly progress reports",
+    "layer": 2,
+    "tag": "5.3",
+    "index": [
+      4,
+      2
+    ]
+  },
+  {
+    "name": "Closing",
+    "layer": 1,
+    "tag": "6",
+    "index": [
+      5
+    ]
+  },
+  {
+    "name": "Project notebook",
+    "layer": 2,
+    "tag": "6.1",
+    "index": [
+      5,
+      0
+    ]
+  },
+  {
+    "name": "Assemble all documents for notebook",
+    "layer": 3,
+    "tag": "6.1.1",
+    "index": [
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Receive project completion form from sponsor",
+    "layer": 3,
+    "tag": "6.1.2",
+    "index": [
+      5,
+      0,
+      1
+    ]
+  },
+  {
+    "name": "Prepare final report",
+    "layer": 3,
+    "tag": "6.1.3",
+    "index": [
+      5,
+      0,
+      2
+    ]
+  },
+  {
+    "name": "Internal project closing",
+    "layer": 3,
+    "tag": "6.1.4",
+    "index": [
+      5,
+      0,
+      3
+    ]
+  },
+  {
+    "name": "Final presentation",
+    "layer": 3,
+    "tag": "6.1.5",
+    "index": [
+      5,
+      0,
+      4
+    ]
+  }
+]

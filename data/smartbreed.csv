@@ -1,0 +1,72 @@
+Gliederungsnummer;Name;Gliederungsebene
+0;Project Plan;0
+1;Initiating;1
+1.1;Project charter;2
+1.2;Kick-off meeting;2
+1.3;Sponsor feedback;2
+2;Planning;1
+2.1;Draft scope statement;2
+2.2;Draft WBS;2
+2.3;Draft project schedule;2
+2.4;Draft Gantt chart;2
+2.5;Draft cost estimation;2
+2.6;Draft cost baseline;2
+2.7;Update scope statement;2
+2.8;Update project schedule;2
+2.9;Update Gantt chart;2
+2.10;Update cost estimation;2
+2.11;Update cost baseline;2
+3;Requirements;1
+3.1;Elicit requirements;2
+3.1.1;System archaeology;3
+3.1.2;Interview;3
+3.1.3;Brainstorming;3
+3.2;Document requirements;2
+3.3;Validate requirements;2
+4;Executing;1
+4.1;Application Design;2
+4.1.1;Design application structure;3
+4.1.1.1;Design general structure;4
+4.1.1.2;Define API;4
+4.1.1.3;Design frontend;4
+4.1.1.4;Design backend;4
+4.1.2;Design GUI;3
+4.2;Implementation;2
+4.2.1;Frontend (Dashboard);3
+4.2.1.1;Setup foundation;4
+4.2.1.2;Implement GUI;4
+4.2.1.3;Implement API requests;4
+4.2.2;Backend;3
+4.2.2.1;Setup foundation;4
+4.2.2.2;Implement database integration;4
+4.2.2.3;Implement data analysis;4
+4.2.2.4;Implement API;4
+4.3;Testing;2
+4.3.1;Test frontend;3
+4.3.2;Test backend / API;3
+4.3.3;Implement minor revision;3
+4.4;Deployment;2
+4.4.1;Deploy application;3
+4.5;Training;2
+4.5.1;Create basic user manual;3
+4.5.2;Train users;3
+5;Monitoring and Controlling;1
+5.1;Progress report 1;2
+5.1.1;Fill out progress report template;3
+5.1.2;Assemble all documents for PR1;3
+5.1.3;Present report;3
+5.1.4;Receive feedback from sponsor;3
+5.2;Progress report 2;2
+5.2.1;Fill out progress report template;3
+5.2.2;Prepare est. vs. updated hours summary;3
+5.2.3;Assemble all documents for PR2;3
+5.2.4;Present report;3
+5.2.5;Receive feedback from sponsor;3
+5.3;Weekly progress reports;2
+6;Closing;1
+6.1;Project notebook;2
+6.1.1;Assemble all documents for notebook;3
+6.1.2;Receive project completion form from sponsor;3
+6.1.3;Prepare final report;3
+6.1.4;Internal project closing;3
+6.1.5;Final presentation;3

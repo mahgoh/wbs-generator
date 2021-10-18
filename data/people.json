@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Project Manager",
+    "layer": 0,
+    "tag": "",
+    "index": [-1]
+  },
+  {
+    "name": "Head of IT",
+    "layer": 1,
+    "tag": "",
+    "index": [0]
+  },
+  {
+    "name": "Senior Supporter",
+    "layer": 2,
+    "tag": "",
+    "index": [0, 0]
+  },
+  {
+    "name": "Head of Software Development",
+    "layer": 1,
+    "tag": "",
+    "index": [1]
+  },
+  {
+    "name": "Senior Developer",
+    "layer": 2,
+    "tag": "",
+    "index": [1, 0]
+  },
+  {
+    "name": "Head of Software Design",
+    "layer": 1,
+    "tag": "",
+    "index": [2]
+  },
+  {
+    "name": "UX Designer",
+    "layer": 2,
+    "tag": "",
+    "index": [2, 0]
+  },
+  {
+    "name": "Head of System Coaching",
+    "layer": 1,
+    "tag": "",
+    "index": [3]
+  },
+  {
+    "name": "Senior Coach",
+    "layer": 2,
+    "tag": "",
+    "index": [3, 0]
+  }
+]

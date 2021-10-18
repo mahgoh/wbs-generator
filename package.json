@@ -1,0 +1,21 @@
+{
+  "name": "wbs-generator",
+  "version": "0.1.0",
+  "description": "Generates a WBS graphic.",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "keywords": [
+    "wbs",
+    "work",
+    "breakdown",
+    "structure",
+    "canvas"
+  ],
+  "author": "mahgoh",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
